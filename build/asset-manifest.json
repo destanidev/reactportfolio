@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.37c9620a.chunk.js",
+    "main.js.map": "/static/js/main.37c9620a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d85b1ffb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d85b1ffb.js.map",
+    "static/js/2.0741953c.chunk.js": "/static/js/2.0741953c.chunk.js",
+    "static/js/2.0741953c.chunk.js.map": "/static/js/2.0741953c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bae7f55ee330b4e5d1c71ec3fd4cd322.js": "/precache-manifest.bae7f55ee330b4e5d1c71ec3fd4cd322.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.0741953c.chunk.js.LICENSE.txt": "/static/js/2.0741953c.chunk.js.LICENSE.txt",
+    "static/media/cariboudevform.png": "/static/media/cariboudevform.dbf7178d.png",
+    "static/media/caribouwebflow.png": "/static/media/caribouwebflow.e986743c.png",
+    "static/media/home1.jpg": "/static/media/home1.57956095.jpg",
+    "static/media/home2.jpg": "/static/media/home2.1a42b112.jpg",
+    "static/media/waves.png": "/static/media/waves.64b59544.png",
+    "static/media/waves2.png": "/static/media/waves2.6eb15570.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d85b1ffb.js",
+    "static/js/2.0741953c.chunk.js",
+    "static/js/main.37c9620a.chunk.js"
+  ]
+}
