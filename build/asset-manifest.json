@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.3cadd3a9.chunk.js",
-    "main.js.map": "/static/js/main.3cadd3a9.chunk.js.map",
+    "main.js": "/static/js/main.51eb4aa0.chunk.js",
+    "main.js.map": "/static/js/main.51eb4aa0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d85b1ffb.js",
     "runtime-main.js.map": "/static/js/runtime-main.d85b1ffb.js.map",
     "static/js/2.0741953c.chunk.js": "/static/js/2.0741953c.chunk.js",
     "static/js/2.0741953c.chunk.js.map": "/static/js/2.0741953c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.12da3c9b7cefe648e665f72bcb90a0c6.js": "/precache-manifest.12da3c9b7cefe648e665f72bcb90a0c6.js",
+    "precache-manifest.fd981aa7d5f4b72ebfc4a0c511b22b70.js": "/precache-manifest.fd981aa7d5f4b72ebfc4a0c511b22b70.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.0741953c.chunk.js.LICENSE.txt": "/static/js/2.0741953c.chunk.js.LICENSE.txt",
     "static/media/cariboudevform.png": "/static/media/cariboudevform.dbf7178d.png",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.d85b1ffb.js",
     "static/js/2.0741953c.chunk.js",
-    "static/js/main.3cadd3a9.chunk.js"
+    "static/js/main.51eb4aa0.chunk.js"
   ]
 }
